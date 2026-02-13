@@ -45,7 +45,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Aashika"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -84,7 +84,7 @@ loveMessages: {
 // Final Celebration
 celebration: {
     title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    message: "First of all happy valentine's day my love. I am sorry I couldn't get you a better gift and also i didn't ask you to be my valentine before today is because I wanted to make this day special to you. I really really love you and want to spend rest of my life with you. I am sorry if this doesn't make you feel as special as you wanted to feel. Lastly I love you baby.",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
